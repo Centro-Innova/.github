@@ -1,6 +1,13 @@
-# Centro Innova
+<p align="center">
+  <img src="https://github.com/Centro-Innova/.github/blob/main/wallpaper.png" width="180">
+</p>
 
-**Open experimentation for integration, interoperability, and digital innovation.**
+<h1 align="center">Centro Innova</h1>
+
+<p align="center">
+  <strong>Open experimentation for integration, interoperability, and digital innovation.</strong>
+</p>
+
 
 The **Centro Innova**, located at the **University of Vale do Rio dos Sinos (UNISINOS), Brazil**, is an open innovation center specialized in the **integration and interoperability testing of products, platforms, and digital services**.
 
