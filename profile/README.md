@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Centro-Innova/.github/blob/main/wallpaper.png" width="180">
-</p>
-
 <h1 align="center">Centro Innova</h1>
 
 <p align="center">
