@@ -63,7 +63,7 @@ Featured repositories will include projects related to:
 
 ## Open Source and Reproducible Research
 
-One of the goals of Centro Innova is to strengthen open and reproducible research.
+One of Centro Innova's goals is to strengthen open and reproducible research.
 
 Through this GitHub organization, we aim to support:
 
@@ -94,7 +94,7 @@ If you are interested in conducting experiments, testing interoperability, using
 
 Centro Innova is located at the **University of Vale do Rio dos Sinos (UNISINOS)** in Rio Grande do Sul, Brazil.
 
-UNISINOS has a strong research and innovation ecosystem in computer science, engineering, telecommunications, artificial intelligence, digital technologies, and collaboration with industry.
+UNISINOS has a strong research and innovation ecosystem in computer science, engineering, telecommunications, artificial intelligence, digital technologies, and industry collaboration.
 
 ---
 
